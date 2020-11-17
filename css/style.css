@@ -72,7 +72,7 @@ header {
 }
 
 .logo {
-  font-size: 2rem;
+  font-size: 1.1rem;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -207,7 +207,7 @@ header {
 
 .line {
   width: 100%;
-  max-width: 8.4rem;
+  max-width: 7rem;
   height: 0.25rem;
   background-color: #fff;
   position: relative;
@@ -548,7 +548,7 @@ footer {
   }
 
   .line {
-    max-width: 11.4rem;
+    max-width: 10rem;
   }
 
   .restaurant-info {

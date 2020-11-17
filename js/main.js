@@ -15,28 +15,28 @@ window.sr = ScrollReveal();
 
 sr.reveal(".animate-left", {
   origin: "left",
-  duration: 600,
+  duration: 1500,
   distance: "25rem",
-  delay: 300,
+  delay: 200,
 });
 
 sr.reveal(".animate-right", {
   origin: "right",
-  duration: 600,
+  duration: 1500,
   distance: "25rem",
-  delay: 600,
+  delay: 400,
 });
 
 sr.reveal(".animate-top", {
   origin: "top",
-  duration: 600,
+  duration: 1500,
   distance: "25rem",
   delay: 600,
 });
 
 sr.reveal(".animate-bottom", {
   origin: "bottom",
-  duration: 600,
+  duration: 1500,
   distance: "25rem",
-  delay: 900,
+  delay: 800,
 });
