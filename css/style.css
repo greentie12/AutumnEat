@@ -383,7 +383,8 @@ header {
 
 /* Footer */
 footer {
-  padding: 7.9rem 0;
+  padding-top: 7.9rem;
+  padding-bottom: 2rem;
   background-color: #121212;
   color: #fff;
   text-align: center;
@@ -478,6 +479,14 @@ footer {
   top: 50%;
   transform: translateY(-50%);
   margin-left: 20.5rem;
+}
+
+.signature {
+  margin-top: 3rem;
+}
+
+.signature p {
+  font-size: 0.9rem;
 }
 
 /* Media queries */
